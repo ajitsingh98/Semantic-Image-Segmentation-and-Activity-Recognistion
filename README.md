@@ -1,2 +1,2 @@
-# Advertisement-Detection-System
-Advertisement Detection System
+# Semantic Image Segmentation and Activity Recognistion 
+
